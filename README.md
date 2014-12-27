@@ -1,1 +1,1 @@
-second version of store project
+Legacy project, second version of the store.
