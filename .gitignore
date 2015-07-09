@@ -1,8 +1,7 @@
 # User specific & automatically generated files #
 #################################################
-/app/Config/database.php
 /app/tmp
-/lib/Cake/Console/Templates/skel/tmp/
+/lib
 /plugins
 /vendors
 /build
@@ -19,3 +18,7 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# IDE
+.idea
+iska.iml
